@@ -229,6 +229,14 @@ platform tests of a given problem.
 ## Stacks And Queues
 |Subdomain|Challenge|Score|Solution|
 |-|-|-|-|
+|Stack simple|[Simplify Directory Path](https://www.interviewbit.com/problems/simplify-directory-path/)|250|Solution|
+|Stack simple|[Redundant Braces](https://www.interviewbit.com/problems/redundant-braces/)|300|Solution|
+|Cleverstack|[Nearest Smaller Element](https://www.interviewbit.com/problems/nearest-smaller-element/)|350|Solution|
+|Cleverstack|[Largest Rectangle in Histogram](https://www.interviewbit.com/problems/largest-rectangle-in-histogram/)|450|Solution|
+|Cleverstack|[Sliding Window Maximum](https://www.interviewbit.com/problems/sliding-window-maximum/)|450|Solution|
+|Stack math|[Evaluate Expression](https://www.interviewbit.com/problems/evaluate-expression/)|400|Solution|
+|Stack math|[Rain Water Trapped](https://www.interviewbit.com/problems/rain-water-trapped/)|400|Solution|
+|Multiple stack|[Min Stack](https://www.interviewbit.com/problems/min-stack/)|400|Solution|
 
 ## Backtracking
 |Subdomain|Challenge|Score|Solution|

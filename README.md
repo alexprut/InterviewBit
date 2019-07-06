@@ -241,6 +241,23 @@ platform tests of a given problem.
 ## Backtracking
 |Subdomain|Challenge|Score|Solution|
 |-|-|-|-|
+|Subsets|[Subset](https://www.interviewbit.com/problems/subset/)|250|Solution|
+|Subsets|[Combinations](https://www.interviewbit.com/problems/combinations/)|300|Solution|
+|Subsets|[Combination Sum](https://www.interviewbit.com/problems/combination-sum/)|300|Solution|
+|Subsets|[Combination Sum II](https://www.interviewbit.com/problems/combination-sum-ii/)|300|Solution|
+|Subsets|[Subsets II](https://www.interviewbit.com/problems/subsets-ii/)|300|Solution|
+|Bruteforce builder|[Letter Phone](https://www.interviewbit.com/problems/letter-phone/)|250|Solution|
+|Bruteforce builder|[Palindrome Partitioning](https://www.interviewbit.com/problems/palindrome-partitioning/)|300|Solution|
+|Bruteforce builder|[Generate all Parentheses II](https://www.interviewbit.com/problems/generate-all-parentheses-ii/)|350|Solution|
+|Pruned builder|[Palindrome Partitioning](https://www.interviewbit.com/problems/palindrome-partitioning/)|300|Solution|
+|Pruned builder|[Generate all Parentheses II](https://www.interviewbit.com/problems/generate-all-parentheses-ii/)|350|Solution|
+|Pruned builder|[NQueens](https://www.interviewbit.com/problems/nqueens/)|550|Solution|
+|Pruned builder|[Sudoku](https://www.interviewbit.com/problems/sudoku/)|700|Solution|
+|Permutations|[Permutations](https://www.interviewbit.com/problems/permutations/)|350|Solution|
+|Maths and backtracking|[Gray Code](https://www.interviewbit.com/problems/gray-code/)|350|Solution|
+|Maths and backtracking|[Kth Permutation Sequence](https://www.interviewbit.com/problems/kth-permutation-sequence/)|350|Solution|
+|Game solving|[NQueens](https://www.interviewbit.com/problems/nqueens/)|550|Solution|
+|Game solving|[Sudoku](https://www.interviewbit.com/problems/sudoku/)|700|Solution|
 
 ## Hashing
 |Subdomain|Challenge|Score|Solution|

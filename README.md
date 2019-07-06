@@ -176,6 +176,13 @@ platform tests of a given problem.
 ## Bit Manipulation
 |Subdomain|Challenge|Score|Solution|
 |-|-|-|-|
+|Bucketing|[Min XOR value](https://www.interviewbit.com/problems/min-xor-value/)|200|Solution|
+|Bit play|[Number of 1 Bits](https://www.interviewbit.com/problems/number-of-1-bits/)|200|Solution|
+|Bit play|[Reverse Bits](https://www.interviewbit.com/problems/reverse-bits/)|225|Solution|
+|Bit play|[Divide Integers](https://www.interviewbit.com/problems/divide-integers/)|250|Solution|
+|Bit play|[Different Bits Sum Pairwise](https://www.interviewbit.com/problems/different-bits-sum-pairwise/)|300|Solution|
+|Bit array|[Single Number](https://www.interviewbit.com/problems/single-number/)|275|Solution|
+|Bit array|[Single Number II](https://www.interviewbit.com/problems/single-number-ii/)|275|Solution|
 
 ## Two Pointers
 |Subdomain|Challenge|Score|Solution|

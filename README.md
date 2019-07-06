@@ -131,6 +131,20 @@ platform tests of a given problem.
 |Combinatorics|[City Tour](https://www.interviewbit.com/problems/city-tour/)|300|Solution|
 |Combinatorics|[Grid Unique Paths](https://www.interviewbit.com/problems/grid-unique-paths/)|375|Solution|
 
+## Binary Search
+|Subdomain|Challenge|Score|Solution|
+|-|-|-|-|
+|Search answer|[Matrix Median](https://www.interviewbit.com/problems/matrix-median/)|225|Solution|
+|Search answer|[Square Root of Integer](https://www.interviewbit.com/problems/square-root-of-integer/)|275|Solution|
+|Search answer|[Painter's Partition Problem](https://www.interviewbit.com/problems/painters-partition-problem/)|350|Solution|
+|Search answer|[Allocate Books](https://www.interviewbit.com/problems/allocate-books/)|350|Solution|
+|Simple binary search|[Matrix Search](https://www.interviewbit.com/problems/matrix-search/)|250|Solution|
+|Simple binary search|[Search for a Range](https://www.interviewbit.com/problems/search-for-a-range/)|250|Solution|
+|Simple binary search|[Sorted Insert Position](https://www.interviewbit.com/problems/sorted-insert-position/)|250|Solution|
+|Search step simulation|[Implement Power Function](https://www.interviewbit.com/problems/implement-power-function/)|275|Solution|
+|Sort modification|[Rotated Sorted Array Search](https://www.interviewbit.com/problems/rotated-sorted-array-search/)|325|Solution|
+|Sort modification|[Median of Array](https://www.interviewbit.com/problems/median-of-array/)|325|Solution|
+
 License
 =======
 Licensed under [MIT](LICENSE).

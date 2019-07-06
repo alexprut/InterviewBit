@@ -262,6 +262,20 @@ platform tests of a given problem.
 ## Hashing
 |Subdomain|Challenge|Score|Solution|
 |-|-|-|-|
+|Hash search|[Colorful Number](https://www.interviewbit.com/problems/colorful-number/)|150|Solution|
+|Hash search|[Largest Continuous Sequence Zero Sum](https://www.interviewbit.com/problems/largest-continuous-sequence-zero-sum/)|200|Solution|
+|Hash search|[2 Sum](https://www.interviewbit.com/problems/2-sum/)|300|Solution|
+|Hash search|[4 Sum](https://www.interviewbit.com/problems/4-sum/)|325|Solution|
+|Hash search|[Valid Sudoku](https://www.interviewbit.com/problems/valid-sudoku/)|325|Solution|
+|Hash search|[Diffk II](https://www.interviewbit.com/problems/diffk-ii/)|375|Solution|
+|Key formation|[Anagrams](https://www.interviewbit.com/problems/anagrams/)|350|Solution|
+|Key formation|[Equal](https://www.interviewbit.com/problems/equal/)|350|Solution|
+|Key formation|[Copy List](https://www.interviewbit.com/problems/copy-list/)|450|Solution|
+|Hashing two pointer|[Longest Substring Without Repeat](https://www.interviewbit.com/problems/longest-substring-without-repeat/)|350|Solution|
+|Hashing two pointer|[Window String](https://www.interviewbit.com/problems/window-string/)|350|Solution|
+|Maths and hashing|[Fraction](https://www.interviewbit.com/problems/fraction/)|450|Solution|
+|Maths and hashing|[Points on the Straight Line](https://www.interviewbit.com/problems/points-on-the-straight-line/)|450|Solution|
+|Incremental hash|[Substring Concatenation](https://www.interviewbit.com/problems/substring-concatenation/)|1000|Solution|
 
 ## Heaps And Maps
 |Subdomain|Challenge|Score|Solution|

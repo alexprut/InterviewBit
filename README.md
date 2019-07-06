@@ -110,6 +110,27 @@ platform tests of a given problem.
 |Missing / repeated number|[Find Duplicate in Array](https://www.interviewbit.com/problems/find-duplicate-in-array/)|450|Solution|
 |Missing / repeated number|[N/3 Repeat Number](https://www.interviewbit.com/problems/n3-repeat-number/)|600|Solution|
 
+## Math
+|Subdomain|Challenge|Score|Solution|
+|-|-|-|-|
+|Adhoc|[Prime Sum](https://www.interviewbit.com/problems/prime-sum/)|150|Solution|
+|Adhoc|[Sum of pairwise Hamming Distance](https://www.interviewbit.com/problems/sum-of-pairwise-hamming-distance/)|200|Solution|
+|Adhoc|[FizzBuzz](https://www.interviewbit.com/problems/fizzbuzz/)|200|Solution|
+|Adhoc|[Power Of Two Integers](https://www.interviewbit.com/problems/power-of-two-integers/)|250|Solution|
+|Base conversion|[Excel Column Number](https://www.interviewbit.com/problems/excel-column-number/)|175|Solution|
+|Base conversion|[Excel Column Title](https://www.interviewbit.com/problems/excel-column-title/)|175|Solution|
+|Digit op|[Palindrome Integer](https://www.interviewbit.com/problems/palindrome-integer/)|200|Solution|
+|Digit op|[Reverse integer](https://www.interviewbit.com/problems/reverse-integer/)|200|Solution|
+|Number theory|[Greatest Common Divisor](https://www.interviewbit.com/problems/greatest-common-divisor/)|200|Solution|
+|Number theory|[Trailing Zeros in Factorial](https://www.interviewbit.com/problems/trailing-zeros-in-factorial/)|250|Solution|
+|Number theory|[Sorted Permutation Rank](https://www.interviewbit.com/problems/sorted-permutation-rank/)|250|Solution|
+|Number theory|[Largest Coprime Divisor](https://www.interviewbit.com/problems/largest-coprime-divisor/)|250|Solution|
+|Number theory|[Sorted Permutation Rank with Repeats](https://www.interviewbit.com/problems/sorted-permutation-rank-with-repeats/)|500|Solution|
+|Array dp|[Numbers of length N and value less than K](https://www.interviewbit.com/problems/numbers-of-length-n-and-value-less-than-k/)|200|Solution|
+|Number encoding|[Rearrange Array](https://www.interviewbit.com/problems/rearrange-array/)|250|Solution|
+|Combinatorics|[City Tour](https://www.interviewbit.com/problems/city-tour/)|300|Solution|
+|Combinatorics|[Grid Unique Paths](https://www.interviewbit.com/problems/grid-unique-paths/)|375|Solution|
+
 License
 =======
 Licensed under [MIT](LICENSE).

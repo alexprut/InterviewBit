@@ -322,6 +322,60 @@ platform tests of a given problem.
 ## Dynamic Programming
 |Subdomain|Challenge|Score|Solution|
 |-|-|-|-|
+|Simple array dp|[Length of Longest Subsequence](https://www.interviewbit.com/problems/length-of-longest-subsequence/)|200|Solution|
+|Simple array dp|[Largest area of rectangle with permutations](https://www.interviewbit.com/problems/largest-area-of-rectangle-with-permutations/)|200|Solution|
+|Simple array dp|[Ways to Decode](https://www.interviewbit.com/problems/ways-to-decode/)|225|Solution|
+|Simple array dp|[Stairs](https://www.interviewbit.com/problems/stairs/)|225|Solution|
+|Simple array dp|[Intersecting Chords in a Circle](https://www.interviewbit.com/problems/intersecting-chords-in-a-circle/)|300|Solution|
+|Greedy or dp|[Tushar's Birthday Bombs](https://www.interviewbit.com/problems/tushars-birthday-bombs/)|200|Solution|
+|Greedy or dp|[Jump Game Array](https://www.interviewbit.com/problems/jump-game-array/)|225|Solution|
+|Greedy or dp|[Min Jumps Array](https://www.interviewbit.com/problems/min-jumps-array/)|300|Solution|
+|Dp tricky|[Longest Arithmetic Progression](https://www.interviewbit.com/problems/longest-arithmetic-progression/)|200|Solution|
+|Dp tricky|[N digit numbers with digit sum S](https://www.interviewbit.com/problems/n-digit-numbers-with-digit-sum-s-/)|200|Solution|
+|Dp tricky|[Ways to color a 3xN Board](https://www.interviewbit.com/problems/ways-to-color-a-3xn-board/)|200|Solution|
+|Dp tricky|[Shortest common superstring](https://www.interviewbit.com/problems/shortest-common-superstring/)|200|Solution|
+|Dp tricky|[Kth Manhattan Distance Neighbourhood](https://www.interviewbit.com/problems/kth-manhattan-distance-neighbourhood/)|200|Solution|
+|Dp tricky|[Coins in a Line](https://www.interviewbit.com/problems/coins-in-a-line/)|300|Solution|
+|Dp tricky|[Evaluate Expression To True](https://www.interviewbit.com/problems/evaluate-expression-to-true/)|350|Solution|
+|Dp tricky|[Longest valid Parentheses](https://www.interviewbit.com/problems/longest-valid-parentheses/)|700|Solution|
+|Dp tricky|[Best Time to Buy and Sell Stocks III](https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stocks-iii/)|700|Solution|
+|Matrix dp|[Kingdom War](https://www.interviewbit.com/problems/kingdom-war/)|200|Solution|
+|Matrix dp|[Min Sum Path in Matrix](https://www.interviewbit.com/problems/min-sum-path-in-matrix/)|300|Solution|
+|Matrix dp|[Dungeon Princess](https://www.interviewbit.com/problems/dungeon-princess/)|300|Solution|
+|Matrix dp|[Min Sum Path in Triangle](https://www.interviewbit.com/problems/min-sum-path-in-triangle/)|300|Solution|
+|Matrix dp|[Unique Paths in a Grid](https://www.interviewbit.com/problems/unique-paths-in-a-grid/)|300|Solution|
+|Matrix dp|[Max Rectangle in Binary Matrix](https://www.interviewbit.com/problems/max-rectangle-in-binary-matrix/)|350|Solution|
+|Matrix dp|[Rod Cutting](https://www.interviewbit.com/problems/rod-cutting/)|350|Solution|
+|Matrix dp|[Queen Attack](https://www.interviewbit.com/problems/queen-attack/)|350|Solution|
+|Suffix / prefix dp|[Sub Matrices with sum Zero](https://www.interviewbit.com/problems/sub-matrices-with-sum-zero/)|200|Solution|
+|Suffix / prefix dp|[Coin Sum Infinite](https://www.interviewbit.com/problems/coin-sum-infinite/)|225|Solution|
+|Suffix / prefix dp|[Best Time to Buy and Sell Stocks I](https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stocks-i/)|300|Solution|
+|Suffix / prefix dp|[Max Product Subarray](https://www.interviewbit.com/problems/max-product-subarray/)|300|Solution|
+|Suffix / prefix dp|[Arrange II](https://www.interviewbit.com/problems/arrange-ii/)|350|Solution|
+|Adhoc|[Largest area of rectangle with permutations](https://www.interviewbit.com/problems/largest-area-of-rectangle-with-permutations/)|200|Solution|
+|Adhoc|[Best Time to Buy and Sell Stocks II](https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stocks-ii/)|225|Solution|
+|Knapsack|[N digit numbers with digit sum S](https://www.interviewbit.com/problems/n-digit-numbers-with-digit-sum-s-/)|200|Solution|
+|Knapsack|[Tushar's Birthday Party](https://www.interviewbit.com/problems/tushars-birthday-party/)|200|Solution|
+|Knapsack|[Flip Array](https://www.interviewbit.com/problems/flip-array/)|200|Solution|
+|Knapsack|[Equal Average Partition](https://www.interviewbit.com/problems/equal-average-partition/)|350|Solution|
+|Derived dp|[Max Sum Without Adjacent Elements](https://www.interviewbit.com/problems/max-sum-without-adjacent-elements/)|225|Solution|
+|2d string dp|[Edit Distance](https://www.interviewbit.com/problems/edit-distance/)|300|Solution|
+|2d string dp|[Longest Increasing Subsequence](https://www.interviewbit.com/problems/longest-increasing-subsequence/)|300|Solution|
+|2d string dp|[Repeating Sub-Sequence](https://www.interviewbit.com/problems/repeating-subsequence/)|300|Solution|
+|2d string dp|[Distinct Subsequences](https://www.interviewbit.com/problems/distinct-subsequences/)|325|Solution|
+|2d string dp|[Interleaving Strings](https://www.interviewbit.com/problems/interleaving-strings/)|500|Solution|
+|2d string dp|[Regular Expression Match](https://www.interviewbit.com/problems/regular-expression-match/)|500|Solution|
+|2d string dp|[Regular Expression II](https://www.interviewbit.com/problems/regular-expression-ii/)|500|Solution|
+|2d string dp|[Scramble String](https://www.interviewbit.com/problems/scramble-string/)|500|Solution|
+|Multiply dp|[Intersecting Chords in a Circle](https://www.interviewbit.com/problems/intersecting-chords-in-a-circle/)|300|Solution|
+|Multiply dp|[Unique Binary Search Trees II](https://www.interviewbit.com/problems/unique-binary-search-trees-ii/)|400|Solution|
+|Multiply dp|[Count Permutations of BST](https://www.interviewbit.com/problems/count-permutations-of-bst/)|400|Solution|
+|Preprocess dp|[Max Rectangle in Binary Matrix](https://www.interviewbit.com/problems/max-rectangle-in-binary-matrix/)|350|Solution|
+|Dp optimized backtrack|[Word Break II](https://www.interviewbit.com/problems/word-break-ii/)|350|Solution|
+|Tree dp|[Max Sum Path in Binary Tree](https://www.interviewbit.com/problems/max-sum-path-in-binary-tree/)|400|Solution|
+|Breaking words|[Word Break](https://www.interviewbit.com/problems/word-break/)|400|Solution|
+|Breaking words|[Palindrome Partitioning II](https://www.interviewbit.com/problems/palindrome-partitioning-ii/)|400|Solution|
+|Breaking words|[Scramble String](https://www.interviewbit.com/problems/scramble-string/)|500|Solution|
 
 ## Greedy Algorithm
 |Subdomain|Challenge|Score|Solution|

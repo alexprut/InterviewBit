@@ -391,6 +391,26 @@ platform tests of a given problem.
 ## Graph Data Structure And Algorithms
 |Subdomain|Challenge|Score|Solution|
 |-|-|-|-|
+|Bfs|[Smallest sequence with given Primes](https://www.interviewbit.com/problems/smallest-sequence-with-given-primes/)|200|Solution|
+|Bfs|[Valid Path](https://www.interviewbit.com/problems/valid-path/)|200|Solution|
+|Bfs|[Level Order](https://www.interviewbit.com/problems/level-order/)|300|Solution|
+|Bfs|[Smallest Multiple With 0 and 1](https://www.interviewbit.com/problems/smallest-multiple-with-0-and-1/)|300|Solution|
+|Graph connectivity|[Commutable Islands](https://www.interviewbit.com/problems/commutable-islands/)|200|Solution|
+|Graph connectivity|[Possibility of finishing all courses given pre-requisites](https://www.interviewbit.com/problems/possibility-of-finishing-all-courses-given-prerequisites/)|200|Solution|
+|Graph connectivity|[Valid Path](https://www.interviewbit.com/problems/valid-path/)|200|Solution|
+|Graph connectivity|[Black Shapes](https://www.interviewbit.com/problems/black-shapes/)|300|Solution|
+|Graph connectivity|[Capture Regions on Board](https://www.interviewbit.com/problems/capture-regions-on-board/)|500|Solution|
+|Depth first search|[Largest Distance between nodes of a Tree](https://www.interviewbit.com/problems/largest-distance-between-nodes-of-a-tree/)|200|Solution|
+|Graph traversal|[Level Order](https://www.interviewbit.com/problems/level-order/)|300|Solution|
+|Graph traversal|[Stepping Numbers](https://www.interviewbit.com/problems/stepping-numbers/)|300|Solution|
+|Graph traversal|[Capture Regions on Board](https://www.interviewbit.com/problems/capture-regions-on-board/)|500|Solution|
+|Graph traversal|[Word Search Board](https://www.interviewbit.com/problems/word-search-board/)|500|Solution|
+|Graph adhoc|[Convert Sorted List to Binary Search Tree](https://www.interviewbit.com/problems/convert-sorted-list-to-binary-search-tree/)|300|Solution|
+|Shortest path|[Sum Of Fibonacci Numbers](https://www.interviewbit.com/problems/sum-of-fibonacci-numbers/)|300|Solution|
+|Shortest path|[Knight On Chess Board](https://www.interviewbit.com/problems/knight-on-chess-board/)|300|Solution|
+|Shortest path|[Word Ladder I](https://www.interviewbit.com/problems/word-ladder-i/)|600|Solution|
+|Shortest path|[Word Ladder II](https://www.interviewbit.com/problems/word-ladder-ii/)|800|Solution|
+|Graph hashing|[Clone Graph](https://www.interviewbit.com/problems/clone-graph/)|500|Solution|
 
 License
 =======

@@ -66,6 +66,50 @@ platform tests of a given problem.
 |Function calling itself|[REC_CMPL3](https://www.interviewbit.com/problems/reccmpl3/)|150|Solution|
 |Amortized complexity|[AMORTIZED1](https://www.interviewbit.com/problems/amortized1/)|100|Solution|
 
+## Arrays
+|Subdomain|Challenge|Score|Solution|
+|-|-|-|-|
+|Array math|[Min Steps in Infinite Grid](https://www.interviewbit.com/problems/min-steps-in-infinite-grid/)|150|Solution|
+|Array math|[Add One To Number](https://www.interviewbit.com/problems/add-one-to-number/)|225|Solution|
+|Array math|[Max Sum Contiguous Subarray](https://www.interviewbit.com/problems/max-sum-contiguous-subarray/)|225|Solution|
+|Array math|[Maximum Absolute Difference](https://www.interviewbit.com/problems/maximum-absolute-difference/)|250|Solution|
+|Array math|[Repeat and Missing Number Array](https://www.interviewbit.com/problems/repeat-and-missing-number-array/)|350|Solution|
+|Array math|[Flip](https://www.interviewbit.com/problems/flip/)|400|Solution|
+|Simulation array|[Max Non Negative SubArray](https://www.interviewbit.com/problems/max-non-negative-subarray/)|150|Solution|
+|Simulation array|[Spiral Order Matrix II](https://www.interviewbit.com/problems/spiral-order-matrix-ii/)|225|Solution|
+|Simulation array|[Pascal Triangle](https://www.interviewbit.com/problems/pascal-triangle/)|225|Solution|
+|Simulation array|[Kth Row of Pascal's Triangle](https://www.interviewbit.com/problems/kth-row-of-pascals-triangle/)|225|Solution|
+|Simulation array|[Anti Diagonals](https://www.interviewbit.com/problems/anti-diagonals/)|225|Solution|
+|Bucketing|[Noble Integer](https://www.interviewbit.com/problems/noble-integer/)|200|Solution|
+|Bucketing|[Triplets with Sum between given range](https://www.interviewbit.com/problems/triplets-with-sum-between-given-range/)|200|Solution|
+|Bucketing|[Largest Number](https://www.interviewbit.com/problems/largest-number/)|225|Solution|
+|Bucketing|[Wave Array](https://www.interviewbit.com/problems/wave-array/)|225|Solution|
+|Bucketing|[Hotel Bookings Possible](https://www.interviewbit.com/problems/hotel-bookings-possible/)|225|Solution|
+|Bucketing|[Max Distance](https://www.interviewbit.com/problems/max-distance/)|250|Solution|
+|Bucketing|[Maximum Unsorted Subarray](https://www.interviewbit.com/problems/maximum-unsorted-subarray/)|250|Solution|
+|Bucketing|[Find Duplicate in Array](https://www.interviewbit.com/problems/find-duplicate-in-array/)|450|Solution|
+|Bucketing|[Maximum Consecutive Gap](https://www.interviewbit.com/problems/maximum-consecutive-gap/)|450|Solution|
+|Array|[MAXSPPROD](https://www.interviewbit.com/problems/maxspprod/)|200|Solution|
+|Arrangement|[Largest Number](https://www.interviewbit.com/problems/largest-number/)|225|Solution|
+|Arrangement|[Rotate Matrix](https://www.interviewbit.com/problems/rotate-matrix/)|300|Solution|
+|Arrangement|[Next Permutation](https://www.interviewbit.com/problems/next-permutation/)|300|Solution|
+|Arrangement|[Find Permutation](https://www.interviewbit.com/problems/find-permutation/)|300|Solution|
+|Value ranges|[Merge Intervals](https://www.interviewbit.com/problems/merge-intervals/)|225|Solution|
+|Value ranges|[Merge Overlapping Intervals](https://www.interviewbit.com/problems/merge-overlapping-intervals/)|225|Solution|
+|Bucketing or sorting|[Hotel Bookings Possible](https://www.interviewbit.com/problems/hotel-bookings-possible/)|225|Solution|
+|Bucketing or sorting|[Wave Array](https://www.interviewbit.com/problems/wave-array/)|225|Solution|
+|Bucketing or sorting|[Largest Number](https://www.interviewbit.com/problems/largest-number/)|225|Solution|
+|Bucketing or sorting|[Max Distance](https://www.interviewbit.com/problems/max-distance/)|250|Solution|
+|Bucketing or sorting|[Maximum Unsorted Subarray](https://www.interviewbit.com/problems/maximum-unsorted-subarray/)|250|Solution|
+|Bucketing or sorting|[Find Duplicate in Array](https://www.interviewbit.com/problems/find-duplicate-in-array/)|450|Solution|
+|Bucketing or sorting|[Maximum Consecutive Gap](https://www.interviewbit.com/problems/maximum-consecutive-gap/)|450|Solution|
+|Space recycle|[Set Matrix Zeros](https://www.interviewbit.com/problems/set-matrix-zeros/)|300|Solution|
+|Space recycle|[First Missing Integer](https://www.interviewbit.com/problems/first-missing-integer/)|300|Solution|
+|Missing / repeated number|[First Missing Integer](https://www.interviewbit.com/problems/first-missing-integer/)|300|Solution|
+|Missing / repeated number|[Repeat and Missing Number Array](https://www.interviewbit.com/problems/repeat-and-missing-number-array/)|350|Solution|
+|Missing / repeated number|[Find Duplicate in Array](https://www.interviewbit.com/problems/find-duplicate-in-array/)|450|Solution|
+|Missing / repeated number|[N/3 Repeat Number](https://www.interviewbit.com/problems/n3-repeat-number/)|600|Solution|
+
 License
 =======
 Licensed under [MIT](LICENSE).

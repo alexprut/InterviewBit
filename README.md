@@ -145,6 +145,78 @@ platform tests of a given problem.
 |Sort modification|[Rotated Sorted Array Search](https://www.interviewbit.com/problems/rotated-sorted-array-search/)|325|Solution|
 |Sort modification|[Median of Array](https://www.interviewbit.com/problems/median-of-array/)|325|Solution|
 
+## Strings
+|Subdomain|Challenge|Score|Solution|
+|-|-|-|-|
+|String simulation|[Palindrome String](https://www.interviewbit.com/problems/palindrome-string/)|150|Solution|
+|String simulation|[Longest Common Prefix](https://www.interviewbit.com/problems/longest-common-prefix/)|225|Solution|
+|String simulation|[Count And Say](https://www.interviewbit.com/problems/count-and-say/)|250|Solution|
+|Programming|[Amazing Subarrays](https://www.interviewbit.com/problems/amazing-subarrays/)|150|Solution|
+|Programming|[Stringoholics](https://www.interviewbit.com/problems/stringoholics/)|300|Solution|
+|String tricks|[Minimum Characters required to make a String Palindromic](https://www.interviewbit.com/problems/minimum-characters-required-to-make-a-string-palindromic/)|200|Solution|
+|String tricks|[Longest Palindromic Substring](https://www.interviewbit.com/problems/longest-palindromic-substring/)|500|Solution|
+|String search|[Minimum Characters required to make a String Palindromic](https://www.interviewbit.com/problems/minimum-characters-required-to-make-a-string-palindromic/)|200|Solution|
+|String search|[Implement StrStr](https://www.interviewbit.com/problems/implement-strstr/)|225|Solution|
+|String parsing|[Minimum Characters required to make a String Palindromic](https://www.interviewbit.com/problems/minimum-characters-required-to-make-a-string-palindromic/)|200|Solution|
+|String parsing|[Compare Version Numbers](https://www.interviewbit.com/problems/compare-version-numbers/)|225|Solution|
+|String parsing|[Atoi](https://www.interviewbit.com/problems/atoi/)|250|Solution|
+|String parsing|[Valid Number](https://www.interviewbit.com/problems/valid-number/)|250|Solution|
+|String parsing|[Valid Ip Addresses](https://www.interviewbit.com/problems/valid-ip-addresses/)|250|Solution|
+|Words|[Length of Last Word](https://www.interviewbit.com/problems/length-of-last-word/)|225|Solution|
+|Words|[Reverse the String](https://www.interviewbit.com/problems/reverse-the-string/)|250|Solution|
+|String math|[Roman To Integer](https://www.interviewbit.com/problems/roman-to-integer/)|250|Solution|
+|String math|[Integer To Roman](https://www.interviewbit.com/problems/integer-to-roman/)|250|Solution|
+|String math|[Add Binary Strings](https://www.interviewbit.com/problems/add-binary-strings/)|300|Solution|
+|String math|[Power of 2](https://www.interviewbit.com/problems/power-of-2/)|350|Solution|
+|String math|[Multiply Strings](https://www.interviewbit.com/problems/multiply-strings/)|375|Solution|
+|Pretty print|[Justified Text](https://www.interviewbit.com/problems/justified-text/)|300|Solution|
+|Pretty print|[Zigzag String](https://www.interviewbit.com/problems/zigzag-string/)|300|Solution|
+|Pretty print|[Pretty Json](https://www.interviewbit.com/problems/pretty-json/)|400|Solution|
+
+## Bit Manipulation
+|Subdomain|Challenge|Score|Solution|
+|-|-|-|-|
+
+## Two Pointers
+|Subdomain|Challenge|Score|Solution|
+|-|-|-|-|
+
+## Linked Lists
+|Subdomain|Challenge|Score|Solution|
+|-|-|-|-|
+
+## Stacks And Queues
+|Subdomain|Challenge|Score|Solution|
+|-|-|-|-|
+
+## Backtracking
+|Subdomain|Challenge|Score|Solution|
+|-|-|-|-|
+
+## Hashing
+|Subdomain|Challenge|Score|Solution|
+|-|-|-|-|
+
+## Heaps And Maps
+|Subdomain|Challenge|Score|Solution|
+|-|-|-|-|
+
+## Tree Data Structure
+|Subdomain|Challenge|Score|Solution|
+|-|-|-|-|
+
+## Dynamic Programming
+|Subdomain|Challenge|Score|Solution|
+|-|-|-|-|
+
+## Greedy Algorithm
+|Subdomain|Challenge|Score|Solution|
+|-|-|-|-|
+
+## Graph Data Structure And Algorithms
+|Subdomain|Challenge|Score|Solution|
+|-|-|-|-|
+
 License
 =======
 Licensed under [MIT](LICENSE).

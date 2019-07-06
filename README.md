@@ -50,6 +50,21 @@ platform tests of a given problem.
 ## Time Complexity
 |Subdomain|Challenge|Score|Solution|
 |-|-|-|-|
+|Basic primer|[LOOP_CMPL](https://www.interviewbit.com/problems/loopcmpl/)|20|Solution|
+|Basic primer|[NESTED_CMPL](https://www.interviewbit.com/problems/nestedcmpl/)|20|Solution|
+|Basic primer|[NESTED_CMPL2](https://www.interviewbit.com/problems/nestedcmpl2/)|30|Solution|
+|Basic primer|[CHOOSE4](https://www.interviewbit.com/problems/choose4/)|50|Solution|
+|Math|[WHILE_CMPL](https://www.interviewbit.com/problems/whilecmpl/)|50|Solution|
+|Math|[NESTED_CMPL3](https://www.interviewbit.com/problems/nestedcmpl3/)|80|Solution|
+|Math|[LOOP_CMPL2](https://www.interviewbit.com/problems/loopcmpl2/)|80|Solution|
+|Math|[GCD_CMPL](https://www.interviewbit.com/problems/gcdcmpl/)|150|Solution|
+|Compare functions|[CHOOSE1](https://www.interviewbit.com/problems/choose1/)|50|Solution|
+|Compare functions|[CHOOSE3](https://www.interviewbit.com/problems/choose3/)|50|Solution|
+|Compare functions|[CHOOSE2](https://www.interviewbit.com/problems/choose2/)|80|Solution|
+|Function calling itself|[REC_CMPL1](https://www.interviewbit.com/problems/reccmpl1/)|80|Solution|
+|Function calling itself|[REC_CMPL2](https://www.interviewbit.com/problems/reccmpl2/)|80|Solution|
+|Function calling itself|[REC_CMPL3](https://www.interviewbit.com/problems/reccmpl3/)|150|Solution|
+|Amortized complexity|[AMORTIZED1](https://www.interviewbit.com/problems/amortized1/)|100|Solution|
 
 License
 =======

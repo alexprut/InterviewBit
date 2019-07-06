@@ -187,6 +187,20 @@ platform tests of a given problem.
 ## Two Pointers
 |Subdomain|Challenge|Score|Solution|
 |-|-|-|-|
+|Multiple arrays|[Merge Two Sorted Lists II](https://www.interviewbit.com/problems/merge-two-sorted-lists-ii/)|200|Solution|
+|Multiple arrays|[Intersection Of Sorted Arrays](https://www.interviewbit.com/problems/intersection-of-sorted-arrays/)|225|Solution|
+|Two pointer|[Minimize the absolute difference](https://www.interviewbit.com/problems/minimize-the-absolute-difference/)|200|Solution|
+|Sorting|[3 Sum](https://www.interviewbit.com/problems/3-sum/)|225|Solution|
+|Sorting|[3 Sum Zero](https://www.interviewbit.com/problems/3-sum-zero/)|225|Solution|
+|Sorting|[Counting Triangles](https://www.interviewbit.com/problems/counting-triangles/)|225|Solution|
+|Sorting|[Diffk](https://www.interviewbit.com/problems/diffk/)|300|Solution|
+|Inplace update|[Remove Duplicates from Sorted Array](https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array/)|250|Solution|
+|Inplace update|[Remove Duplicates from Sorted Array II](https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array-ii/)|250|Solution|
+|Inplace update|[Remove Element from Array](https://www.interviewbit.com/problems/remove-element-from-array/)|250|Solution|
+|Inplace update|[Sort by Color](https://www.interviewbit.com/problems/sort-by-color/)|325|Solution|
+|Tricks|[Max Continuous Series of 1s](https://www.interviewbit.com/problems/max-continuous-series-of-1s/)|300|Solution|
+|Tricks|[Array 3 Pointers](https://www.interviewbit.com/problems/array-3-pointers/)|400|Solution|
+|Tricks|[Container With Most Water](https://www.interviewbit.com/problems/container-with-most-water/)|400|Solution|
 
 ## Linked Lists
 |Subdomain|Challenge|Score|Solution|

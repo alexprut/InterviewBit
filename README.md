@@ -280,6 +280,12 @@ platform tests of a given problem.
 ## Heaps And Maps
 |Subdomain|Challenge|Score|Solution|
 |-|-|-|-|
+|Heap|[N max pair combinations](https://www.interviewbit.com/problems/n-max-pair-combinations/)|200|Solution|
+|Heap|[Magician and Chocolates](https://www.interviewbit.com/problems/magician-and-chocolates/)|250|Solution|
+|Heap|[Merge K Sorted Lists](https://www.interviewbit.com/problems/merge-k-sorted-lists/)|600|Solution|
+|Math|[Ways to form Max Heap](https://www.interviewbit.com/problems/ways-to-form-max-heap/)|200|Solution|
+|Heapmap|[Distinct Numbers in Window](https://www.interviewbit.com/problems/distinct-numbers-in-window/)|600|Solution|
+|Heapmap|[LRU Cache](https://www.interviewbit.com/problems/lru-cache/)|1000|Solution|
 
 ## Tree Data Structure
 |Subdomain|Challenge|Score|Solution|

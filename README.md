@@ -380,6 +380,13 @@ platform tests of a given problem.
 ## Greedy Algorithm
 |Subdomain|Challenge|Score|Solution|
 |-|-|-|-|
+|Bucket 5|[Highest Product](https://www.interviewbit.com/problems/highest-product/)|200|Solution|
+|Bucket 6|[Bulbs](https://www.interviewbit.com/problems/bulbs/)|200|Solution|
+|Bucket 1|[Distribute Candy](https://www.interviewbit.com/problems/distribute-candy/)|300|Solution|
+|Bucket 1|[Assign Mice to Holes](https://www.interviewbit.com/problems/assign-mice-to-holes/)|300|Solution|
+|Bucket 4|[Seats](https://www.interviewbit.com/problems/seats/)|300|Solution|
+|Bucket 3|[Majority Element](https://www.interviewbit.com/problems/majority-element/)|400|Solution|
+|Bucket 2|[Gas Station](https://www.interviewbit.com/problems/gas-station/)|700|Solution|
 
 ## Graph Data Structure And Algorithms
 |Subdomain|Challenge|Score|Solution|

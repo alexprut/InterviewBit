@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/InterviewBit/raw/master/interviewbit-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-0%2F301-green.svg?style=flat-square)](https://github.com/alexprut/InterviewBit#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-5%2F301-green.svg?style=flat-square)](https://github.com/alexprut/InterviewBit#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/InterviewBit#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.interviewbit.com/profile/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/InterviewBit/blob/master/LICENSE)
@@ -50,21 +50,21 @@ platform tests of a given problem.
 ## Time Complexity
 |Subdomain|Challenge|Score|Solution|
 |-|-|-|-|
-|Basic primer|[LOOP_CMPL](https://www.interviewbit.com/problems/loopcmpl/)|20|Solution|
+|Basic primer|[LOOP_CMPL](https://www.interviewbit.com/problems/loopcmpl/)|20|[Solution.txt](Time%20Complexity/LOOP_CMPL/Solution.txt)|
 |Basic primer|[NESTED_CMPL](https://www.interviewbit.com/problems/nestedcmpl/)|20|Solution|
 |Basic primer|[NESTED_CMPL2](https://www.interviewbit.com/problems/nestedcmpl2/)|30|Solution|
 |Basic primer|[CHOOSE4](https://www.interviewbit.com/problems/choose4/)|50|Solution|
-|Math|[WHILE_CMPL](https://www.interviewbit.com/problems/whilecmpl/)|50|Solution|
+|Math|[WHILE_CMPL](https://www.interviewbit.com/problems/whilecmpl/)|50|[Solution.txt](Time%20Complexity/WHILE_CMPL/Solution.txt)|
 |Math|[NESTED_CMPL3](https://www.interviewbit.com/problems/nestedcmpl3/)|80|Solution|
 |Math|[LOOP_CMPL2](https://www.interviewbit.com/problems/loopcmpl2/)|80|Solution|
 |Math|[GCD_CMPL](https://www.interviewbit.com/problems/gcdcmpl/)|150|Solution|
-|Compare functions|[CHOOSE1](https://www.interviewbit.com/problems/choose1/)|50|Solution|
+|Compare functions|[CHOOSE1](https://www.interviewbit.com/problems/choose1/)|50|[Solution.txt](Time%20Complexity/CHOOSE1/Solution.txt)|
 |Compare functions|[CHOOSE3](https://www.interviewbit.com/problems/choose3/)|50|Solution|
 |Compare functions|[CHOOSE2](https://www.interviewbit.com/problems/choose2/)|80|Solution|
-|Function calling itself|[REC_CMPL1](https://www.interviewbit.com/problems/reccmpl1/)|80|Solution|
+|Function calling itself|[REC_CMPL1](https://www.interviewbit.com/problems/reccmpl1/)|80|[Solution.txt](Time%20Complexity/REC_CMPL1/Solution.txt)|
 |Function calling itself|[REC_CMPL2](https://www.interviewbit.com/problems/reccmpl2/)|80|Solution|
 |Function calling itself|[REC_CMPL3](https://www.interviewbit.com/problems/reccmpl3/)|150|Solution|
-|Amortized complexity|[AMORTIZED1](https://www.interviewbit.com/problems/amortized1/)|100|Solution|
+|Amortized complexity|[AMORTIZED1](https://www.interviewbit.com/problems/amortized1/)|100|[Solution.txt](Time%20Complexity/AMORTIZED1/Solution.txt)|
 
 ## Arrays
 |Subdomain|Challenge|Score|Solution|

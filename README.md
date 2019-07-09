@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/InterviewBit/raw/master/interviewbit-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-23%2F301-green.svg?style=flat-square)](https://github.com/alexprut/InterviewBit#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-27%2F301-green.svg?style=flat-square)](https://github.com/alexprut/InterviewBit#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/InterviewBit#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.interviewbit.com/profile/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/InterviewBit/blob/master/LICENSE)
@@ -176,12 +176,12 @@ platform tests of a given problem.
 ## Bit Manipulation
 |Subdomain|Challenge|Score|Solution|
 |-|-|-|-|
-|Bucketing|[Min XOR value](https://www.interviewbit.com/problems/min-xor-value/)|200|Solution|
-|Bit play|[Number of 1 Bits](https://www.interviewbit.com/problems/number-of-1-bits/)|200|Solution|
-|Bit play|[Reverse Bits](https://www.interviewbit.com/problems/reverse-bits/)|225|Solution|
+|Bucketing|[Min XOR value](https://www.interviewbit.com/problems/min-xor-value/)|200|[Solution.java](Bit%20Manipulation/Min%20XOR%20value/Solution.java)|
+|Bit play|[Number of 1 Bits](https://www.interviewbit.com/problems/number-of-1-bits/)|200|[Solution.java](Bit%20Manipulation/Number%20of%201%20Bits/Solution.java)|
+|Bit play|[Reverse Bits](https://www.interviewbit.com/problems/reverse-bits/)|225|[Solution.java](Bit%20Manipulation/Reverse%20Bits/Solution.java)|
 |Bit play|[Divide Integers](https://www.interviewbit.com/problems/divide-integers/)|250|Solution|
 |Bit play|[Different Bits Sum Pairwise](https://www.interviewbit.com/problems/different-bits-sum-pairwise/)|300|Solution|
-|Bit array|[Single Number](https://www.interviewbit.com/problems/single-number/)|275|Solution|
+|Bit array|[Single Number](https://www.interviewbit.com/problems/single-number/)|275|[Solution.java](Bit%20Manipulation/Single%20Number/Solution.java)|
 |Bit array|[Single Number II](https://www.interviewbit.com/problems/single-number-ii/)|275|Solution|
 
 ## Two Pointers

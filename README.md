@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/InterviewBit/raw/master/interviewbit-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-27%2F301-green.svg?style=flat-square)](https://github.com/alexprut/InterviewBit#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-32%2F301-green.svg?style=flat-square)](https://github.com/alexprut/InterviewBit#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/InterviewBit#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.interviewbit.com/profile/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/InterviewBit/blob/master/LICENSE)
@@ -148,23 +148,23 @@ platform tests of a given problem.
 ## Strings
 |Subdomain|Challenge|Score|Solution|
 |-|-|-|-|
-|String simulation|[Palindrome String](https://www.interviewbit.com/problems/palindrome-string/)|150|Solution|
+|String simulation|[Palindrome String](https://www.interviewbit.com/problems/palindrome-string/)|150|[Solution.java](Strings/Palindrome%20String/Solution.java)|
 |String simulation|[Longest Common Prefix](https://www.interviewbit.com/problems/longest-common-prefix/)|225|Solution|
 |String simulation|[Count And Say](https://www.interviewbit.com/problems/count-and-say/)|250|Solution|
-|Programming|[Amazing Subarrays](https://www.interviewbit.com/problems/amazing-subarrays/)|150|Solution|
+|Programming|[Amazing Subarrays](https://www.interviewbit.com/problems/amazing-subarrays/)|150|[Solution.java](Strings/Amazing%20Subarrays/Solution.java)|
 |Programming|[Stringoholics](https://www.interviewbit.com/problems/stringoholics/)|300|Solution|
 |String tricks|[Minimum Characters required to make a String Palindromic](https://www.interviewbit.com/problems/minimum-characters-required-to-make-a-string-palindromic/)|200|Solution|
 |String tricks|[Longest Palindromic Substring](https://www.interviewbit.com/problems/longest-palindromic-substring/)|500|Solution|
 |String search|[Minimum Characters required to make a String Palindromic](https://www.interviewbit.com/problems/minimum-characters-required-to-make-a-string-palindromic/)|200|Solution|
-|String search|[Implement StrStr](https://www.interviewbit.com/problems/implement-strstr/)|225|Solution|
+|String search|[Implement StrStr](https://www.interviewbit.com/problems/implement-strstr/)|225|[Solution.java](Strings/Implement%20StrStr/Solution.java)|
 |String parsing|[Minimum Characters required to make a String Palindromic](https://www.interviewbit.com/problems/minimum-characters-required-to-make-a-string-palindromic/)|200|Solution|
 |String parsing|[Compare Version Numbers](https://www.interviewbit.com/problems/compare-version-numbers/)|225|Solution|
 |String parsing|[Atoi](https://www.interviewbit.com/problems/atoi/)|250|Solution|
 |String parsing|[Valid Number](https://www.interviewbit.com/problems/valid-number/)|250|Solution|
 |String parsing|[Valid Ip Addresses](https://www.interviewbit.com/problems/valid-ip-addresses/)|250|Solution|
-|Words|[Length of Last Word](https://www.interviewbit.com/problems/length-of-last-word/)|225|Solution|
+|Words|[Length of Last Word](https://www.interviewbit.com/problems/length-of-last-word/)|225|[Solution.java](Strings/Length%20of%20Last%20Word/Solution.java)|
 |Words|[Reverse the String](https://www.interviewbit.com/problems/reverse-the-string/)|250|Solution|
-|String math|[Roman To Integer](https://www.interviewbit.com/problems/roman-to-integer/)|250|Solution|
+|String math|[Roman To Integer](https://www.interviewbit.com/problems/roman-to-integer/)|250|[Solution.java](Strings/Roman%20To%20Integer/Solution.java)|
 |String math|[Integer To Roman](https://www.interviewbit.com/problems/integer-to-roman/)|250|Solution|
 |String math|[Add Binary Strings](https://www.interviewbit.com/problems/add-binary-strings/)|300|Solution|
 |String math|[Power of 2](https://www.interviewbit.com/problems/power-of-2/)|350|Solution|

@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/InterviewBit/raw/master/interviewbit-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-43%2F301-green.svg?style=flat-square)](https://github.com/alexprut/InterviewBit#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-49%2F301-green.svg?style=flat-square)](https://github.com/alexprut/InterviewBit#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/InterviewBit#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.interviewbit.com/profile/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/InterviewBit/blob/master/LICENSE)
@@ -206,25 +206,25 @@ platform tests of a given problem.
 |Subdomain|Challenge|Score|Solution|
 |-|-|-|-|
 |List 2 pointer|[Palindrome List](https://www.interviewbit.com/problems/palindrome-list/)|200|Solution|
-|List 2 pointer|[Remove Duplicates from Sorted List](https://www.interviewbit.com/problems/remove-duplicates-from-sorted-list/)|300|Solution|
+|List 2 pointer|[Remove Duplicates from Sorted List](https://www.interviewbit.com/problems/remove-duplicates-from-sorted-list/)|300|[Solution.java](Linked%20Lists/Remove%20Duplicates%20from%20Sorted%20List/Solution.java)|
 |List 2 pointer|[Remove Duplicates from Sorted List II](https://www.interviewbit.com/problems/remove-duplicates-from-sorted-list-ii/)|300|Solution|
-|List 2 pointer|[Merge Two Sorted Lists](https://www.interviewbit.com/problems/merge-two-sorted-lists/)|300|Solution|
+|List 2 pointer|[Merge Two Sorted Lists](https://www.interviewbit.com/problems/merge-two-sorted-lists/)|300|[Solution.java](Linked%20Lists/Merge%20Two%20Sorted%20Lists/Solution.java)|
 |List 2 pointer|[Remove Nth Node from List End](https://www.interviewbit.com/problems/remove-nth-node-from-list-end/)|350|Solution|
 |List 2 pointer|[Rotate List](https://www.interviewbit.com/problems/rotate-list/)|350|Solution|
 |List 2 pointer|[Reverse Link List II](https://www.interviewbit.com/problems/reverse-link-list-ii/)|450|Solution|
 |List 2 pointer|[Reorder List](https://www.interviewbit.com/problems/reorder-list/)|600|Solution|
 |Pointer move|[K reverse linked list](https://www.interviewbit.com/problems/k-reverse-linked-list/)|200|Solution|
-|Pointer move|[Swap List Nodes in pairs](https://www.interviewbit.com/problems/swap-list-nodes-in-pairs/)|350|Solution|
+|Pointer move|[Swap List Nodes in pairs](https://www.interviewbit.com/problems/swap-list-nodes-in-pairs/)|350|[Solution.java](Linked%20Lists/Swap%20List%20Nodes%20in%20pairs/Solution.java)|
 |Pointer move|[Reverse Link List II](https://www.interviewbit.com/problems/reverse-link-list-ii/)|450|Solution|
 |Pointer move|[Reorder List](https://www.interviewbit.com/problems/reorder-list/)|600|Solution|
 |List math|[Add Two Numbers as Lists](https://www.interviewbit.com/problems/add-two-numbers-as-lists/)|250|Solution|
-|List math|[List Cycle](https://www.interviewbit.com/problems/list-cycle/)|600|Solution|
+|List math|[List Cycle](https://www.interviewbit.com/problems/list-cycle/)|600|[Solution.java](Linked%20Lists/List%20Cycle/Solution.java)|
 |List sort|[Partition List](https://www.interviewbit.com/problems/partition-list/)|275|Solution|
-|List sort|[Insertion Sort List](https://www.interviewbit.com/problems/insertion-sort-list/)|300|Solution|
+|List sort|[Insertion Sort List](https://www.interviewbit.com/problems/insertion-sort-list/)|300|[Solution.java](Linked%20Lists/Insertion%20Sort%20List/Solution.java)|
 |List sort|[Sort List](https://www.interviewbit.com/problems/sort-list/)|350|Solution|
 |List trick|[Reverse Link List II](https://www.interviewbit.com/problems/reverse-link-list-ii/)|450|Solution|
 |List trick|[Reorder List](https://www.interviewbit.com/problems/reorder-list/)|600|Solution|
-|List cycle|[List Cycle](https://www.interviewbit.com/problems/list-cycle/)|600|Solution|
+|List cycle|[List Cycle](https://www.interviewbit.com/problems/list-cycle/)|600|[Solution.java](Linked%20Lists/List%20Cycle/Solution.java)|
 
 ## Stacks And Queues
 |Subdomain|Challenge|Score|Solution|

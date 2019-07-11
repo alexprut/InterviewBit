@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/InterviewBit/raw/master/interviewbit-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-49%2F301-green.svg?style=flat-square)](https://github.com/alexprut/InterviewBit#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-52%2F301-green.svg?style=flat-square)](https://github.com/alexprut/InterviewBit#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/InterviewBit#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.interviewbit.com/profile/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/InterviewBit/blob/master/LICENSE)
@@ -230,11 +230,11 @@ platform tests of a given problem.
 |Subdomain|Challenge|Score|Solution|
 |-|-|-|-|
 |Stack simple|[Simplify Directory Path](https://www.interviewbit.com/problems/simplify-directory-path/)|250|Solution|
-|Stack simple|[Redundant Braces](https://www.interviewbit.com/problems/redundant-braces/)|300|Solution|
-|Cleverstack|[Nearest Smaller Element](https://www.interviewbit.com/problems/nearest-smaller-element/)|350|Solution|
+|Stack simple|[Redundant Braces](https://www.interviewbit.com/problems/redundant-braces/)|300|[Solution.java](Stacks%20And%20Queues/Redundant%20Braces/Solution.java)|
+|Cleverstack|[Nearest Smaller Element](https://www.interviewbit.com/problems/nearest-smaller-element/)|350|[Solution.java](Stacks%20And%20Queues/Nearest%20Smaller%20Element/Solution.java)|
 |Cleverstack|[Largest Rectangle in Histogram](https://www.interviewbit.com/problems/largest-rectangle-in-histogram/)|450|Solution|
 |Cleverstack|[Sliding Window Maximum](https://www.interviewbit.com/problems/sliding-window-maximum/)|450|Solution|
-|Stack math|[Evaluate Expression](https://www.interviewbit.com/problems/evaluate-expression/)|400|Solution|
+|Stack math|[Evaluate Expression](https://www.interviewbit.com/problems/evaluate-expression/)|400|[Solution.java](Stacks%20And%20Queues/Evaluate%20Expression/Solution.java)|
 |Stack math|[Rain Water Trapped](https://www.interviewbit.com/problems/rain-water-trapped/)|400|Solution|
 |Multiple stack|[Min Stack](https://www.interviewbit.com/problems/min-stack/)|400|Solution|
 

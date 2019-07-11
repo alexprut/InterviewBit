@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/InterviewBit/raw/master/interviewbit-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-52%2F301-green.svg?style=flat-square)](https://github.com/alexprut/InterviewBit#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-56%2F301-green.svg?style=flat-square)](https://github.com/alexprut/InterviewBit#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/InterviewBit#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.interviewbit.com/profile/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/InterviewBit/blob/master/LICENSE)
@@ -241,19 +241,19 @@ platform tests of a given problem.
 ## Backtracking
 |Subdomain|Challenge|Score|Solution|
 |-|-|-|-|
-|Subsets|[Subset](https://www.interviewbit.com/problems/subset/)|250|Solution|
+|Subsets|[Subset](https://www.interviewbit.com/problems/subset/)|250|[Solution.java](Backtracking/Subset/Solution.java)|
 |Subsets|[Combinations](https://www.interviewbit.com/problems/combinations/)|300|Solution|
 |Subsets|[Combination Sum](https://www.interviewbit.com/problems/combination-sum/)|300|Solution|
 |Subsets|[Combination Sum II](https://www.interviewbit.com/problems/combination-sum-ii/)|300|Solution|
 |Subsets|[Subsets II](https://www.interviewbit.com/problems/subsets-ii/)|300|Solution|
 |Bruteforce builder|[Letter Phone](https://www.interviewbit.com/problems/letter-phone/)|250|Solution|
 |Bruteforce builder|[Palindrome Partitioning](https://www.interviewbit.com/problems/palindrome-partitioning/)|300|Solution|
-|Bruteforce builder|[Generate all Parentheses II](https://www.interviewbit.com/problems/generate-all-parentheses-ii/)|350|Solution|
+|Bruteforce builder|[Generate all Parentheses II](https://www.interviewbit.com/problems/generate-all-parentheses-ii/)|350|[Solution.java](Backtracking/Generate%20all%20Parentheses%20II/Solution.java)|
 |Pruned builder|[Palindrome Partitioning](https://www.interviewbit.com/problems/palindrome-partitioning/)|300|Solution|
-|Pruned builder|[Generate all Parentheses II](https://www.interviewbit.com/problems/generate-all-parentheses-ii/)|350|Solution|
+|Bruteforce builder|[Generate all Parentheses II](https://www.interviewbit.com/problems/generate-all-parentheses-ii/)|350|[Solution.java](Backtracking/Generate%20all%20Parentheses%20II2/Solution.java)|
 |Pruned builder|[NQueens](https://www.interviewbit.com/problems/nqueens/)|550|Solution|
 |Pruned builder|[Sudoku](https://www.interviewbit.com/problems/sudoku/)|700|Solution|
-|Permutations|[Permutations](https://www.interviewbit.com/problems/permutations/)|350|Solution|
+|Permutations|[Permutations](https://www.interviewbit.com/problems/permutations/)|350|[Solution.java](Backtracking/Permutations/Solution.java)|
 |Maths and backtracking|[Gray Code](https://www.interviewbit.com/problems/gray-code/)|350|Solution|
 |Maths and backtracking|[Kth Permutation Sequence](https://www.interviewbit.com/problems/kth-permutation-sequence/)|350|Solution|
 |Game solving|[NQueens](https://www.interviewbit.com/problems/nqueens/)|550|Solution|

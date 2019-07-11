@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/InterviewBit/raw/master/interviewbit-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-56%2F301-green.svg?style=flat-square)](https://github.com/alexprut/InterviewBit#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-59%2F301-green.svg?style=flat-square)](https://github.com/alexprut/InterviewBit#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/InterviewBit#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.interviewbit.com/profile/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/InterviewBit/blob/master/LICENSE)
@@ -267,11 +267,11 @@ platform tests of a given problem.
 |Hash search|[2 Sum](https://www.interviewbit.com/problems/2-sum/)|300|Solution|
 |Hash search|[4 Sum](https://www.interviewbit.com/problems/4-sum/)|325|Solution|
 |Hash search|[Valid Sudoku](https://www.interviewbit.com/problems/valid-sudoku/)|325|Solution|
-|Hash search|[Diffk II](https://www.interviewbit.com/problems/diffk-ii/)|375|Solution|
-|Key formation|[Anagrams](https://www.interviewbit.com/problems/anagrams/)|350|Solution|
+|Hash search|[Diffk II](https://www.interviewbit.com/problems/diffk-ii/)|375|[Solution.java](Hashing/Diffk%20II/Solution.java)|
+|Key formation|[Anagrams](https://www.interviewbit.com/problems/anagrams/)|350|[Solution.java](Hashing/Anagrams/Solution.java)|
 |Key formation|[Equal](https://www.interviewbit.com/problems/equal/)|350|Solution|
 |Key formation|[Copy List](https://www.interviewbit.com/problems/copy-list/)|450|Solution|
-|Hashing two pointer|[Longest Substring Without Repeat](https://www.interviewbit.com/problems/longest-substring-without-repeat/)|350|Solution|
+|Hashing two pointer|[Longest Substring Without Repeat](https://www.interviewbit.com/problems/longest-substring-without-repeat/)|350|[Solution.java](Hashing/Longest%20Substring%20Without%20Repeat/Solution.java)|
 |Hashing two pointer|[Window String](https://www.interviewbit.com/problems/window-string/)|350|Solution|
 |Maths and hashing|[Fraction](https://www.interviewbit.com/problems/fraction/)|450|Solution|
 |Maths and hashing|[Points on the Straight Line](https://www.interviewbit.com/problems/points-on-the-straight-line/)|450|Solution|

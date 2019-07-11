@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/InterviewBit/raw/master/interviewbit-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-36%2F301-green.svg?style=flat-square)](https://github.com/alexprut/InterviewBit#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-43%2F301-green.svg?style=flat-square)](https://github.com/alexprut/InterviewBit#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/InterviewBit#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.interviewbit.com/profile/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/InterviewBit/blob/master/LICENSE)
@@ -113,23 +113,23 @@ platform tests of a given problem.
 ## Math
 |Subdomain|Challenge|Score|Solution|
 |-|-|-|-|
-|Adhoc|[Prime Sum](https://www.interviewbit.com/problems/prime-sum/)|150|Solution|
+|Adhoc|[Prime Sum](https://www.interviewbit.com/problems/prime-sum/)|150|[Solution.java](Math/Prime%20Sum/Solution.java)|
 |Adhoc|[Sum of pairwise Hamming Distance](https://www.interviewbit.com/problems/sum-of-pairwise-hamming-distance/)|200|Solution|
-|Adhoc|[FizzBuzz](https://www.interviewbit.com/problems/fizzbuzz/)|200|Solution|
+|Adhoc|[FizzBuzz](https://www.interviewbit.com/problems/fizzbuzz/)|200|[Solution.java](Math/FizzBuzz/Solution.java)|
 |Adhoc|[Power Of Two Integers](https://www.interviewbit.com/problems/power-of-two-integers/)|250|Solution|
-|Base conversion|[Excel Column Number](https://www.interviewbit.com/problems/excel-column-number/)|175|Solution|
+|Base conversion|[Excel Column Number](https://www.interviewbit.com/problems/excel-column-number/)|175|[Solution.java](Math/Excel%20Column%20Number/Solution.java)|
 |Base conversion|[Excel Column Title](https://www.interviewbit.com/problems/excel-column-title/)|175|Solution|
-|Digit op|[Palindrome Integer](https://www.interviewbit.com/problems/palindrome-integer/)|200|Solution|
+|Digit op|[Palindrome Integer](https://www.interviewbit.com/problems/palindrome-integer/)|200|[Solution.java](Math/Palindrome%20Integer/Solution.java)|
 |Digit op|[Reverse integer](https://www.interviewbit.com/problems/reverse-integer/)|200|Solution|
-|Number theory|[Greatest Common Divisor](https://www.interviewbit.com/problems/greatest-common-divisor/)|200|Solution|
+|Number theory|[Greatest Common Divisor](https://www.interviewbit.com/problems/greatest-common-divisor/)|200|[Solution.java](Math/Greatest%20Common%20Divisor/Solution.java)|
 |Number theory|[Trailing Zeros in Factorial](https://www.interviewbit.com/problems/trailing-zeros-in-factorial/)|250|Solution|
 |Number theory|[Sorted Permutation Rank](https://www.interviewbit.com/problems/sorted-permutation-rank/)|250|Solution|
 |Number theory|[Largest Coprime Divisor](https://www.interviewbit.com/problems/largest-coprime-divisor/)|250|Solution|
 |Number theory|[Sorted Permutation Rank with Repeats](https://www.interviewbit.com/problems/sorted-permutation-rank-with-repeats/)|500|Solution|
 |Array dp|[Numbers of length N and value less than K](https://www.interviewbit.com/problems/numbers-of-length-n-and-value-less-than-k/)|200|Solution|
-|Number encoding|[Rearrange Array](https://www.interviewbit.com/problems/rearrange-array/)|250|Solution|
+|Number encoding|[Rearrange Array](https://www.interviewbit.com/problems/rearrange-array/)|250|[Solution.java](Math/Rearrange%20Array/Solution.java)|
 |Combinatorics|[City Tour](https://www.interviewbit.com/problems/city-tour/)|300|Solution|
-|Combinatorics|[Grid Unique Paths](https://www.interviewbit.com/problems/grid-unique-paths/)|375|Solution|
+|Combinatorics|[Grid Unique Paths](https://www.interviewbit.com/problems/grid-unique-paths/)|375|[Solution.java](Math/Grid%20Unique%20Paths/Solution.java)|
 
 ## Binary Search
 |Subdomain|Challenge|Score|Solution|

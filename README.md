@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/InterviewBit/raw/master/interviewbit-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-73%2F301-green.svg?style=flat-square)](https://github.com/alexprut/InterviewBit#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-77%2F301-green.svg?style=flat-square)](https://github.com/alexprut/InterviewBit#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/InterviewBit#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.interviewbit.com/profile/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/InterviewBit/blob/master/LICENSE)
@@ -380,12 +380,12 @@ platform tests of a given problem.
 ## Greedy Algorithm
 |Subdomain|Challenge|Score|Solution|
 |-|-|-|-|
-|Bucket 5|[Highest Product](https://www.interviewbit.com/problems/highest-product/)|200|Solution|
-|Bucket 6|[Bulbs](https://www.interviewbit.com/problems/bulbs/)|200|Solution|
+|Bucket 5|[Highest Product](https://www.interviewbit.com/problems/highest-product/)|200|[Solution.java](Greedy%20Algorithm/Highest%20Product/Solution.java)|
+|Bucket 6|[Bulbs](https://www.interviewbit.com/problems/bulbs/)|200|[Solution.java](Greedy%20Algorithm/Bulbs/Solution.java)|
 |Bucket 1|[Distribute Candy](https://www.interviewbit.com/problems/distribute-candy/)|300|Solution|
-|Bucket 1|[Assign Mice to Holes](https://www.interviewbit.com/problems/assign-mice-to-holes/)|300|Solution|
+|Bucket 1|[Assign Mice to Holes](https://www.interviewbit.com/problems/assign-mice-to-holes/)|300|[Solution.java](Greedy%20Algorithm/Assign%20Mice%20to%20Holes/Solution.java)|
 |Bucket 4|[Seats](https://www.interviewbit.com/problems/seats/)|300|Solution|
-|Bucket 3|[Majority Element](https://www.interviewbit.com/problems/majority-element/)|400|Solution|
+|Bucket 3|[Majority Element](https://www.interviewbit.com/problems/majority-element/)|400|[Solution.java](Greedy%20Algorithm/Majority%20Element/Solution.java)|
 |Bucket 2|[Gas Station](https://www.interviewbit.com/problems/gas-station/)|700|Solution|
 
 ## Graph Data Structure And Algorithms

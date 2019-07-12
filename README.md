@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/InterviewBit/raw/master/interviewbit-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-61%2F301-green.svg?style=flat-square)](https://github.com/alexprut/InterviewBit#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-69%2F301-green.svg?style=flat-square)](https://github.com/alexprut/InterviewBit#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/InterviewBit#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.interviewbit.com/profile/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/InterviewBit/blob/master/LICENSE)
@@ -293,29 +293,29 @@ platform tests of a given problem.
 |Traversal|[Vertical Order traversal of Binary Tree](https://www.interviewbit.com/problems/vertical-order-traversal-of-binary-tree/)|200|Solution|
 |Traversal|[Inorder Traversal](https://www.interviewbit.com/problems/inorder-traversal/)|350|Solution|
 |Traversal|[Postorder Traversal](https://www.interviewbit.com/problems/postorder-traversal/)|350|Solution|
-|Traversal|[Preorder Traversal](https://www.interviewbit.com/problems/preorder-traversal/)|350|Solution|
+|Traversal|[Preorder Traversal](https://www.interviewbit.com/problems/preorder-traversal/)|350|[Solution.java](Tree%20Data%20Structure/Preorder%20Traversal/Solution.java)|
 |Tries|[Hotel Reviews](https://www.interviewbit.com/problems/hotel-reviews/)|200|Solution|
 |Simple tree ops|[Balanced Binary Tree](https://www.interviewbit.com/problems/balanced-binary-tree/)|275|Solution|
-|2 trees|[Identical Binary Trees](https://www.interviewbit.com/problems/identical-binary-trees/)|300|Solution|
+|2 trees|[Identical Binary Trees](https://www.interviewbit.com/problems/identical-binary-trees/)|300|[Solution.java](Tree%20Data%20Structure/Identical%20Binary%20Trees/Solution.java)|
 |2 trees|[Symmetric Binary Tree](https://www.interviewbit.com/problems/symmetric-binary-tree/)|300|Solution|
 |Tree construction|[Inorder Traversal of Cartesian Tree](https://www.interviewbit.com/problems/inorder-traversal-of-cartesian-tree/)|300|Solution|
-|Tree construction|[Sorted Array To Balanced BST](https://www.interviewbit.com/problems/sorted-array-to-balanced-bst/)|300|Solution|
+|Tree construction|[Sorted Array To Balanced BST](https://www.interviewbit.com/problems/sorted-array-to-balanced-bst/)|300|[Solution.java](Tree%20Data%20Structure/Sorted%20Array%20To%20Balanced%20BST/Solution.java)|
 |Tree construction|[Binary Tree From Inorder And Postorder](https://www.interviewbit.com/problems/binary-tree-from-inorder-and-postorder/)|375|Solution|
 |Tree construction|[Construct Binary Tree From Inorder And Preorder](https://www.interviewbit.com/problems/construct-binary-tree-from-inorder-and-preorder/)|375|Solution|
-|Bst traversal|[Kth Smallest Element In Tree](https://www.interviewbit.com/problems/kth-smallest-element-in-tree/)|300|Solution|
+|Bst traversal|[Kth Smallest Element In Tree](https://www.interviewbit.com/problems/kth-smallest-element-in-tree/)|300|[Solution.java](Tree%20Data%20Structure/Kth%20Smallest%20Element%20In%20Tree/Solution.java)|
 |Bst traversal|[2-Sum Binary Tree](https://www.interviewbit.com/problems/2sum-binary-tree/)|400|Solution|
 |Bst traversal|[BST Iterator](https://www.interviewbit.com/problems/bst-iterator/)|500|Solution|
 |Bst traversal|[Recover Binary Search Tree](https://www.interviewbit.com/problems/recover-binary-search-tree/)|750|Solution|
-|Inplace change|[Invert the Binary Tree](https://www.interviewbit.com/problems/invert-the-binary-tree/)|300|Solution|
-|Level order|[ZigZag Level Order Traversal BT](https://www.interviewbit.com/problems/zigzag-level-order-traversal-bt/)|350|Solution|
+|Inplace change|[Invert the Binary Tree](https://www.interviewbit.com/problems/invert-the-binary-tree/)|300|[Solution.java](Tree%20Data%20Structure/Invert%20the%20Binary%20Tree/Solution.java)|
+|Level order|[ZigZag Level Order Traversal BT](https://www.interviewbit.com/problems/zigzag-level-order-traversal-bt/)|350|[Solution.java](Tree%20Data%20Structure/ZigZag%20Level%20Order%20Traversal%20BT/Solution.java)|
 |Level order|[Populate Next Right Pointers Tree](https://www.interviewbit.com/problems/populate-next-right-pointers-tree/)|900|Solution|
 |Root to leaf|[Path Sum](https://www.interviewbit.com/problems/path-sum/)|350|Solution|
 |Root to leaf|[Root to Leaf Paths With Sum](https://www.interviewbit.com/problems/root-to-leaf-paths-with-sum/)|350|Solution|
-|Root to leaf|[Max Depth of Binary Tree](https://www.interviewbit.com/problems/max-depth-of-binary-tree/)|350|Solution|
+|Root to leaf|[Max Depth of Binary Tree](https://www.interviewbit.com/problems/max-depth-of-binary-tree/)|350|[Solution.java](Tree%20Data%20Structure/Max%20Depth%20of%20Binary%20Tree/Solution.java)|
 |Root to leaf|[Min Depth of Binary Tree](https://www.interviewbit.com/problems/min-depth-of-binary-tree/)|350|Solution|
 |Root to leaf|[Sum Root to Leaf Numbers](https://www.interviewbit.com/problems/sum-root-to-leaf-numbers/)|350|Solution|
 |Trie|[Shortest Unique Prefix](https://www.interviewbit.com/problems/shortest-unique-prefix/)|350|Solution|
-|Tree search|[Least Common Ancestor](https://www.interviewbit.com/problems/least-common-ancestor/)|450|Solution|
+|Tree search|[Least Common Ancestor](https://www.interviewbit.com/problems/least-common-ancestor/)|450|[Solution.java](Tree%20Data%20Structure/Least%20Common%20Ancestor/Solution.java)|
 |Linkedlist tree|[Flatten Binary Tree to Linked List](https://www.interviewbit.com/problems/flatten-binary-tree-to-linked-list/)|500|Solution|
 |Interval tree|[Order of People Heights](https://www.interviewbit.com/problems/order-of-people-heights/)|700|Solution|
 

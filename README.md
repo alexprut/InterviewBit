@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/InterviewBit/raw/master/interviewbit-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-77%2F301-green.svg?style=flat-square)](https://github.com/alexprut/InterviewBit#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-82%2F301-green.svg?style=flat-square)](https://github.com/alexprut/InterviewBit#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/InterviewBit#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.interviewbit.com/profile/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/InterviewBit/blob/master/LICENSE)
@@ -393,20 +393,20 @@ platform tests of a given problem.
 |-|-|-|-|
 |Bfs|[Smallest sequence with given Primes](https://www.interviewbit.com/problems/smallest-sequence-with-given-primes/)|200|Solution|
 |Bfs|[Valid Path](https://www.interviewbit.com/problems/valid-path/)|200|Solution|
-|Bfs|[Level Order](https://www.interviewbit.com/problems/level-order/)|300|Solution|
+|Bfs|[Level Order](https://www.interviewbit.com/problems/level-order/)|300|[Solution.java](Graph%20Data%20Structure%20And%20Algorithms/Level%20Order/Solution.java)|
 |Bfs|[Smallest Multiple With 0 and 1](https://www.interviewbit.com/problems/smallest-multiple-with-0-and-1/)|300|Solution|
 |Graph connectivity|[Commutable Islands](https://www.interviewbit.com/problems/commutable-islands/)|200|Solution|
 |Graph connectivity|[Possibility of finishing all courses given pre-requisites](https://www.interviewbit.com/problems/possibility-of-finishing-all-courses-given-prerequisites/)|200|Solution|
 |Graph connectivity|[Valid Path](https://www.interviewbit.com/problems/valid-path/)|200|Solution|
-|Graph connectivity|[Black Shapes](https://www.interviewbit.com/problems/black-shapes/)|300|Solution|
+|Graph connectivity|[Black Shapes](https://www.interviewbit.com/problems/black-shapes/)|300|[Solution.java](Graph%20Data%20Structure%20And%20Algorithms/Black%20Shapes/Solution.java)|
 |Graph connectivity|[Capture Regions on Board](https://www.interviewbit.com/problems/capture-regions-on-board/)|500|Solution|
 |Depth first search|[Largest Distance between nodes of a Tree](https://www.interviewbit.com/problems/largest-distance-between-nodes-of-a-tree/)|200|Solution|
-|Graph traversal|[Level Order](https://www.interviewbit.com/problems/level-order/)|300|Solution|
+|Graph traversal|[Level Order](https://www.interviewbit.com/problems/level-order/)|300|[Solution.java](Graph%20Data%20Structure%20And%20Algorithms/Level%20Order2/Solution.java)|
 |Graph traversal|[Stepping Numbers](https://www.interviewbit.com/problems/stepping-numbers/)|300|Solution|
 |Graph traversal|[Capture Regions on Board](https://www.interviewbit.com/problems/capture-regions-on-board/)|500|Solution|
 |Graph traversal|[Word Search Board](https://www.interviewbit.com/problems/word-search-board/)|500|Solution|
-|Graph adhoc|[Convert Sorted List to Binary Search Tree](https://www.interviewbit.com/problems/convert-sorted-list-to-binary-search-tree/)|300|Solution|
-|Shortest path|[Sum Of Fibonacci Numbers](https://www.interviewbit.com/problems/sum-of-fibonacci-numbers/)|300|Solution|
+|Graph adhoc|[Convert Sorted List to Binary Search Tree](https://www.interviewbit.com/problems/convert-sorted-list-to-binary-search-tree/)|300|[Solution.java](Graph%20Data%20Structure%20And%20Algorithms/Convert%20Sorted%20List%20to%20Binary%20Search%20Tree/Solution.java)|
+|Shortest path|[Sum Of Fibonacci Numbers](https://www.interviewbit.com/problems/sum-of-fibonacci-numbers/)|300|[Solution.java](Graph%20Data%20Structure%20And%20Algorithms/Sum%20Of%20Fibonacci%20Numbers/Solution.java)|
 |Shortest path|[Knight On Chess Board](https://www.interviewbit.com/problems/knight-on-chess-board/)|300|Solution|
 |Shortest path|[Word Ladder I](https://www.interviewbit.com/problems/word-ladder-i/)|600|Solution|
 |Shortest path|[Word Ladder II](https://www.interviewbit.com/problems/word-ladder-ii/)|800|Solution|

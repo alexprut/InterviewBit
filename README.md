@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/InterviewBit/raw/master/interviewbit-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-69%2F301-green.svg?style=flat-square)](https://github.com/alexprut/InterviewBit#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-73%2F301-green.svg?style=flat-square)](https://github.com/alexprut/InterviewBit#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/InterviewBit#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.interviewbit.com/profile/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/InterviewBit/blob/master/LICENSE)
@@ -325,10 +325,10 @@ platform tests of a given problem.
 |Simple array dp|[Length of Longest Subsequence](https://www.interviewbit.com/problems/length-of-longest-subsequence/)|200|Solution|
 |Simple array dp|[Largest area of rectangle with permutations](https://www.interviewbit.com/problems/largest-area-of-rectangle-with-permutations/)|200|Solution|
 |Simple array dp|[Ways to Decode](https://www.interviewbit.com/problems/ways-to-decode/)|225|Solution|
-|Simple array dp|[Stairs](https://www.interviewbit.com/problems/stairs/)|225|Solution|
+|Simple array dp|[Stairs](https://www.interviewbit.com/problems/stairs/)|225|[Solution.java](Dynamic%20Programming/Stairs/Solution.java)|
 |Simple array dp|[Intersecting Chords in a Circle](https://www.interviewbit.com/problems/intersecting-chords-in-a-circle/)|300|Solution|
 |Greedy or dp|[Tushar's Birthday Bombs](https://www.interviewbit.com/problems/tushars-birthday-bombs/)|200|Solution|
-|Greedy or dp|[Jump Game Array](https://www.interviewbit.com/problems/jump-game-array/)|225|Solution|
+|Greedy or dp|[Jump Game Array](https://www.interviewbit.com/problems/jump-game-array/)|225|[Solution.java](Dynamic%20Programming/Jump%20Game%20Array/Solution.java)|
 |Greedy or dp|[Min Jumps Array](https://www.interviewbit.com/problems/min-jumps-array/)|300|Solution|
 |Dp tricky|[Longest Arithmetic Progression](https://www.interviewbit.com/problems/longest-arithmetic-progression/)|200|Solution|
 |Dp tricky|[N digit numbers with digit sum S](https://www.interviewbit.com/problems/n-digit-numbers-with-digit-sum-s-/)|200|Solution|
@@ -349,7 +349,7 @@ platform tests of a given problem.
 |Matrix dp|[Queen Attack](https://www.interviewbit.com/problems/queen-attack/)|350|Solution|
 |Suffix / prefix dp|[Sub Matrices with sum Zero](https://www.interviewbit.com/problems/sub-matrices-with-sum-zero/)|200|Solution|
 |Suffix / prefix dp|[Coin Sum Infinite](https://www.interviewbit.com/problems/coin-sum-infinite/)|225|Solution|
-|Suffix / prefix dp|[Best Time to Buy and Sell Stocks I](https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stocks-i/)|300|Solution|
+|Suffix / prefix dp|[Best Time to Buy and Sell Stocks I](https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stocks-i/)|300|[Solution.java](Dynamic%20Programming/Best%20Time%20to%20Buy%20and%20Sell%20Stocks%20I/Solution.java)|
 |Suffix / prefix dp|[Max Product Subarray](https://www.interviewbit.com/problems/max-product-subarray/)|300|Solution|
 |Suffix / prefix dp|[Arrange II](https://www.interviewbit.com/problems/arrange-ii/)|350|Solution|
 |Adhoc|[Largest area of rectangle with permutations](https://www.interviewbit.com/problems/largest-area-of-rectangle-with-permutations/)|200|Solution|
@@ -360,7 +360,7 @@ platform tests of a given problem.
 |Knapsack|[Equal Average Partition](https://www.interviewbit.com/problems/equal-average-partition/)|350|Solution|
 |Derived dp|[Max Sum Without Adjacent Elements](https://www.interviewbit.com/problems/max-sum-without-adjacent-elements/)|225|Solution|
 |2d string dp|[Edit Distance](https://www.interviewbit.com/problems/edit-distance/)|300|Solution|
-|2d string dp|[Longest Increasing Subsequence](https://www.interviewbit.com/problems/longest-increasing-subsequence/)|300|Solution|
+|2d string dp|[Longest Increasing Subsequence](https://www.interviewbit.com/problems/longest-increasing-subsequence/)|300|[Solution.java](Dynamic%20Programming/Longest%20Increasing%20Subsequence/Solution.java)|
 |2d string dp|[Repeating Sub-Sequence](https://www.interviewbit.com/problems/repeating-subsequence/)|300|Solution|
 |2d string dp|[Distinct Subsequences](https://www.interviewbit.com/problems/distinct-subsequences/)|325|Solution|
 |2d string dp|[Interleaving Strings](https://www.interviewbit.com/problems/interleaving-strings/)|500|Solution|

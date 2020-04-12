@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/InterviewBit/raw/master/interviewbit-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-85%2F301-green.svg?style=flat-square)](https://github.com/alexprut/InterviewBit#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-86%2F301-green.svg?style=flat-square)](https://github.com/alexprut/InterviewBit#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/InterviewBit#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.interviewbit.com/profile/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/InterviewBit/blob/master/LICENSE)
@@ -295,7 +295,7 @@ platform tests of a given problem.
 |Traversal|[Postorder Traversal](https://www.interviewbit.com/problems/postorder-traversal/)|350|Solution|
 |Traversal|[Preorder Traversal](https://www.interviewbit.com/problems/preorder-traversal/)|350|[Solution.java](Tree%20Data%20Structure/Preorder%20Traversal/Solution.java)|
 |Tries|[Hotel Reviews](https://www.interviewbit.com/problems/hotel-reviews/)|200|Solution|
-|Simple tree ops|[Balanced Binary Tree](https://www.interviewbit.com/problems/balanced-binary-tree/)|275|Solution|
+|Simple tree ops|[Balanced Binary Tree](https://www.interviewbit.com/problems/balanced-binary-tree/)|275|[Solution.java](Tree%20Data%20Structure/Balanced%20Binary%20Tree/Solution.java)|
 |2 trees|[Identical Binary Trees](https://www.interviewbit.com/problems/identical-binary-trees/)|300|[Solution.java](Tree%20Data%20Structure/Identical%20Binary%20Trees/Solution.java)|
 |2 trees|[Symmetric Binary Tree](https://www.interviewbit.com/problems/symmetric-binary-tree/)|300|Solution|
 |Tree construction|[Inorder Traversal of Cartesian Tree](https://www.interviewbit.com/problems/inorder-traversal-of-cartesian-tree/)|300|Solution|

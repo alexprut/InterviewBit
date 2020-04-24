@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/InterviewBit/raw/master/interviewbit-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-96%2F301-green.svg?style=flat-square)](https://github.com/alexprut/InterviewBit#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-97%2F301-green.svg?style=flat-square)](https://github.com/alexprut/InterviewBit#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/InterviewBit#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.interviewbit.com/profile/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/InterviewBit/blob/master/LICENSE)
@@ -158,7 +158,7 @@ platform tests of a given problem.
 |Search answer|[Square Root of Integer](https://www.interviewbit.com/problems/square-root-of-integer/)|275|[Solution.java](Binary%20Search/Square%20Root%20of%20Integer/Solution.java)|
 |Search answer|[Painter's Partition Problem](https://www.interviewbit.com/problems/painters-partition-problem/)|350|Solution|
 |Search answer|[Allocate Books](https://www.interviewbit.com/problems/allocate-books/)|350|Solution|
-|Simple binary search|[Matrix Search](https://www.interviewbit.com/problems/matrix-search/)|250|Solution|
+|Simple binary search|[Matrix Search](https://www.interviewbit.com/problems/matrix-search/)|250|[Solution.java](Binary%20Search/Matrix%20Search/Solution.java)|
 |Simple binary search|[Search for a Range](https://www.interviewbit.com/problems/search-for-a-range/)|250|[Solution.java](Binary%20Search/Search%20for%20a%20Range/Solution.java)|
 |Simple binary search|[Sorted Insert Position](https://www.interviewbit.com/problems/sorted-insert-position/)|250|[Solution.java](Binary%20Search/Sorted%20Insert%20Position/Solution.java)|
 |Search step simulation|[Implement Power Function](https://www.interviewbit.com/problems/implement-power-function/)|275|Solution|

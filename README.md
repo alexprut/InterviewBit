@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/InterviewBit/raw/master/interviewbit-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-97%2F301-green.svg?style=flat-square)](https://github.com/alexprut/InterviewBit#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-98%2F301-green.svg?style=flat-square)](https://github.com/alexprut/InterviewBit#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/InterviewBit#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.interviewbit.com/profile/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/InterviewBit/blob/master/LICENSE)
@@ -302,7 +302,7 @@ platform tests of a given problem.
 |-|-|-|-|
 |Heap|[N max pair combinations](https://www.interviewbit.com/problems/n-max-pair-combinations/)|200|Solution|
 |Heap|[Magician and Chocolates](https://www.interviewbit.com/problems/magician-and-chocolates/)|250|[Solution.java](Heaps%20And%20Maps/Magician%20and%20Chocolates/Solution.java)|
-|Heap|[Merge K Sorted Lists](https://www.interviewbit.com/problems/merge-k-sorted-lists/)|600|Solution|
+|Heap|[Merge K Sorted Lists](https://www.interviewbit.com/problems/merge-k-sorted-lists/)|600|[Solution.java](Heaps%20And%20Maps/Merge%20K%20Sorted%20Lists/Solution.java)|
 |Math|[Ways to form Max Heap](https://www.interviewbit.com/problems/ways-to-form-max-heap/)|200|Solution|
 |Heapmap|[Distinct Numbers in Window](https://www.interviewbit.com/problems/distinct-numbers-in-window/)|600|[Solution.java](Heaps%20And%20Maps/Distinct%20Numbers%20in%20Window/Solution.java)|
 |Heapmap|[LRU Cache](https://www.interviewbit.com/problems/lru-cache/)|1000|Solution|

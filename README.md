@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/InterviewBit/raw/master/interviewbit-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-98%2F301-green.svg?style=flat-square)](https://github.com/alexprut/InterviewBit#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-99%2F301-green.svg?style=flat-square)](https://github.com/alexprut/InterviewBit#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/InterviewBit#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.interviewbit.com/profile/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/InterviewBit/blob/master/LICENSE)
@@ -373,7 +373,7 @@ platform tests of a given problem.
 |Suffix / prefix dp|[Max Product Subarray](https://www.interviewbit.com/problems/max-product-subarray/)|300|Solution|
 |Suffix / prefix dp|[Arrange II](https://www.interviewbit.com/problems/arrange-ii/)|350|Solution|
 |Adhoc|[Largest area of rectangle with permutations](https://www.interviewbit.com/problems/largest-area-of-rectangle-with-permutations/)|200|Solution|
-|Adhoc|[Best Time to Buy and Sell Stocks II](https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stocks-ii/)|225|Solution|
+|Adhoc|[Best Time to Buy and Sell Stocks II](https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stocks-ii/)|225|[Solution.java](Dynamic%20Programming/Best%20Time%20to%20Buy%20and%20Sell%20Stocks%20II/Solution.java)|
 |Knapsack|[N digit numbers with digit sum S](https://www.interviewbit.com/problems/n-digit-numbers-with-digit-sum-s-/)|200|Solution|
 |Knapsack|[Tushar's Birthday Party](https://www.interviewbit.com/problems/tushars-birthday-party/)|200|Solution|
 |Knapsack|[Flip Array](https://www.interviewbit.com/problems/flip-array/)|200|Solution|

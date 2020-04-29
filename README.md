@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/InterviewBit/raw/master/interviewbit-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-99%2F301-green.svg?style=flat-square)](https://github.com/alexprut/InterviewBit#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-100%2F301-green.svg?style=flat-square)](https://github.com/alexprut/InterviewBit#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/InterviewBit#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.interviewbit.com/profile/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/InterviewBit/blob/master/LICENSE)
@@ -411,7 +411,7 @@ platform tests of a given problem.
 ## Graph Data Structure And Algorithms
 |Subdomain|Challenge|Score|Solution|
 |-|-|-|-|
-|Bfs|[Smallest sequence with given Primes](https://www.interviewbit.com/problems/smallest-sequence-with-given-primes/)|200|Solution|
+|Bfs|[Smallest sequence with given Primes](https://www.interviewbit.com/problems/smallest-sequence-with-given-primes/)|200|[Solution.java](Graph%20Data%20Structure%20And%20Algorithms/Smallest%20sequence%20with%20given%20Primes/Solution.java)|
 |Bfs|[Valid Path](https://www.interviewbit.com/problems/valid-path/)|200|Solution|
 |Bfs|[Level Order](https://www.interviewbit.com/problems/level-order/)|300|[Solution.java](Graph%20Data%20Structure%20And%20Algorithms/Level%20Order/Solution.java)|
 |Bfs|[Smallest Multiple With 0 and 1](https://www.interviewbit.com/problems/smallest-multiple-with-0-and-1/)|300|Solution|

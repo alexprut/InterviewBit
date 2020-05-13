@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/InterviewBit/raw/master/interviewbit-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-101%2F301-green.svg?style=flat-square)](https://github.com/alexprut/InterviewBit#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-102%2F301-green.svg?style=flat-square)](https://github.com/alexprut/InterviewBit#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/InterviewBit#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.interviewbit.com/profile/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/InterviewBit/blob/master/LICENSE)
@@ -214,7 +214,7 @@ platform tests of a given problem.
 |Sorting|[3 Sum Zero](https://www.interviewbit.com/problems/3-sum-zero/)|225|Solution|
 |Sorting|[Counting Triangles](https://www.interviewbit.com/problems/counting-triangles/)|225|Solution|
 |Sorting|[Diffk](https://www.interviewbit.com/problems/diffk/)|300|[Solution.java](Two%20Pointers/Diffk/Solution.java)|
-|Inplace update|[Remove Duplicates from Sorted Array](https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array/)|250|Solution|
+|Inplace update|[Remove Duplicates from Sorted Array](https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array/)|250|[Solution.java](Two%20Pointers/Remove%20Duplicates%20from%20Sorted%20Array/Solution.java)|
 |Inplace update|[Remove Duplicates from Sorted Array II](https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array-ii/)|250|Solution|
 |Inplace update|[Remove Element from Array](https://www.interviewbit.com/problems/remove-element-from-array/)|250|Solution|
 |Inplace update|[Sort by Color](https://www.interviewbit.com/problems/sort-by-color/)|325|[Solution.java](Two%20Pointers/Sort%20by%20Color/Solution.java)|

@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/InterviewBit/raw/master/interviewbit-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-102%2F301-green.svg?style=flat-square)](https://github.com/alexprut/InterviewBit#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-103%2F301-green.svg?style=flat-square)](https://github.com/alexprut/InterviewBit#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/InterviewBit#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.interviewbit.com/profile/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/InterviewBit/blob/master/LICENSE)
@@ -379,7 +379,7 @@ platform tests of a given problem.
 |Knapsack|[Flip Array](https://www.interviewbit.com/problems/flip-array/)|200|Solution|
 |Knapsack|[Equal Average Partition](https://www.interviewbit.com/problems/equal-average-partition/)|350|Solution|
 |Derived dp|[Max Sum Without Adjacent Elements](https://www.interviewbit.com/problems/max-sum-without-adjacent-elements/)|225|Solution|
-|2d string dp|[Edit Distance](https://www.interviewbit.com/problems/edit-distance/)|300|Solution|
+|2d string dp|[Edit Distance](https://www.interviewbit.com/problems/edit-distance/)|300|[Solution.java](Dynamic%20Programming/Edit%20Distance/Solution.java)|
 |2d string dp|[Longest Increasing Subsequence](https://www.interviewbit.com/problems/longest-increasing-subsequence/)|300|[Solution.java](Dynamic%20Programming/Longest%20Increasing%20Subsequence/Solution.java)|
 |2d string dp|[Repeating Sub-Sequence](https://www.interviewbit.com/problems/repeating-subsequence/)|300|Solution|
 |2d string dp|[Distinct Subsequences](https://www.interviewbit.com/problems/distinct-subsequences/)|325|Solution|

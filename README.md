@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/InterviewBit/raw/master/interviewbit-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-105%2F301-green.svg?style=flat-square)](https://github.com/alexprut/InterviewBit#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-107%2F301-green.svg?style=flat-square)](https://github.com/alexprut/InterviewBit#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/InterviewBit#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.interviewbit.com/profile/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/InterviewBit/blob/master/LICENSE)
@@ -97,7 +97,7 @@ platform tests of a given problem.
 |Array math|[Flip](https://www.interviewbit.com/problems/flip/)|400|Solution|
 |Simulation array|[Max Non Negative SubArray](https://www.interviewbit.com/problems/max-non-negative-subarray/)|150|[Solution.java](Arrays/Max%20Non%20Negative%20SubArray/Solution.java)|
 |Simulation array|[Spiral Order Matrix II](https://www.interviewbit.com/problems/spiral-order-matrix-ii/)|225|Solution|
-|Simulation array|[Pascal Triangle](https://www.interviewbit.com/problems/pascal-triangle/)|225|Solution|
+|Simulation array|[Pascal Triangle](https://www.interviewbit.com/problems/pascal-triangle/)|225|[Solution.java](Arrays/Pascal%20Triangle/Solution.java)|
 |Simulation array|[Kth Row of Pascal's Triangle](https://www.interviewbit.com/problems/kth-row-of-pascals-triangle/)|225|Solution|
 |Simulation array|[Anti Diagonals](https://www.interviewbit.com/problems/anti-diagonals/)|225|Solution|
 |Bucketing|[Noble Integer](https://www.interviewbit.com/problems/noble-integer/)|200|[Solution.java](Arrays/Noble%20Integer/Solution.java)|
@@ -336,7 +336,7 @@ platform tests of a given problem.
 |Root to leaf|[Sum Root to Leaf Numbers](https://www.interviewbit.com/problems/sum-root-to-leaf-numbers/)|350|Solution|
 |Trie|[Shortest Unique Prefix](https://www.interviewbit.com/problems/shortest-unique-prefix/)|350|Solution|
 |Tree search|[Least Common Ancestor](https://www.interviewbit.com/problems/least-common-ancestor/)|450|[Solution.java](Tree%20Data%20Structure/Least%20Common%20Ancestor/Solution.java)|
-|Linkedlist tree|[Flatten Binary Tree to Linked List](https://www.interviewbit.com/problems/flatten-binary-tree-to-linked-list/)|500|Solution|
+|Linkedlist tree|[Flatten Binary Tree to Linked List](https://www.interviewbit.com/problems/flatten-binary-tree-to-linked-list/)|500|[Solution.java](Tree%20Data%20Structure/Flatten%20Binary%20Tree%20to%20Linked%20List/Solution.java)|
 |Interval tree|[Order of People Heights](https://www.interviewbit.com/problems/order-of-people-heights/)|700|Solution|
 
 ## Dynamic Programming
@@ -381,7 +381,7 @@ platform tests of a given problem.
 |Derived dp|[Max Sum Without Adjacent Elements](https://www.interviewbit.com/problems/max-sum-without-adjacent-elements/)|225|Solution|
 |2d string dp|[Edit Distance](https://www.interviewbit.com/problems/edit-distance/)|300|[Solution.java](Dynamic%20Programming/Edit%20Distance/Solution.java)|
 |2d string dp|[Longest Increasing Subsequence](https://www.interviewbit.com/problems/longest-increasing-subsequence/)|300|[Solution.java](Dynamic%20Programming/Longest%20Increasing%20Subsequence/Solution.java)|
-|2d string dp|[Repeating Sub-Sequence](https://www.interviewbit.com/problems/repeating-subsequence/)|300|Solution.java](Dynamic%20Programming/Repeating%20Sub-Sequence/Solution.java)|
+|2d string dp|[Repeating Sub-Sequence](https://www.interviewbit.com/problems/repeating-subsequence/)|300|[Solution.java](Dynamic%20Programming/Repeating%20Sub-Sequence/Solution.java)|
 |2d string dp|[Distinct Subsequences](https://www.interviewbit.com/problems/distinct-subsequences/)|325|Solution|
 |2d string dp|[Interleaving Strings](https://www.interviewbit.com/problems/interleaving-strings/)|500|Solution|
 |2d string dp|[Regular Expression Match](https://www.interviewbit.com/problems/regular-expression-match/)|500|Solution|
